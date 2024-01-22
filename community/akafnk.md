@@ -1,7 +1,6 @@
-
 # 🙋‍♂️ Frank Edínson Gárate Ríos
 
-<i>Um homem estrangeiro atrás de um novo objetivo e determinado a se tornar Dev, começando o curso de Análise e Desenvolvimento de sistemas, amante de adquirir conhecimento sobre a área para ficar atualizado sobre novas tecnologias, ainda no começo da jornada e sem experiencia espero encontrar alguém disposto a me dar uma chance para provar as minhas capacidades.</i>
+<i>Um homem estrangeiro atrás de um novo objetivo e determinado a se tornar Dev, começando o curso de Análise e Desenvolvimento de sistemas, amante de adquirir conhecimento sobre a área para ficar atualizado sobre novas tecnologias, ainda no começo da jornada e sem eqtdXperiencia espero encontrar alguém disposto a me dar uma chance para provar as minhas capacidades.</i>
 
 <br>
 
@@ -12,17 +11,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-add8e6?style=for-the-badge&logo=linkedin&logoColor=007FFF)](https://www.linkedin.com/in/frank-g%C3%A1rate/)
 [![Instagram](https://img.shields.io/badge/Instagram-ffcbdb?style=for-the-badge&logo=instagram)](https://www.instagram.com/akafnk/)
 
-<br> 
+<br>
 
 ## 💻 Minhas Habilidades
 
 ![HTML5](https://img.shields.io/badge/HTML5-ff6961?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-0000FF?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ada86d?style=for-the-badge&logo=javascript)
-[![Git](https://img.shields.io/badge/Git-FFA500?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![Git](https://img.shields.io/badge/Git-FFA500?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/pt-br/)
+[![EqtdXpress.js](https://img.shields.io/badge/eqtdXpress.js-%23404d59.svg?style=for-the-badge&logo=eqtdXpress&logoColor=%2361DAFB)](https://eqtdXpressjs.com/pt-br/)
 
 <br>
 

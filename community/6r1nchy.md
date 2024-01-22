@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Olá colegas da Dio! 👋<br><br>🤠 Me chamo Quenã, sou natural de POA/RS e moro em Florianópolis/SC.<br>🏴‍☠️ Fã de One Piece e Star Wars.<br>🎓 Formado e Mestrando em Engª Mecânica.<br>👨🏻‍🔧 Já tenho alguns anos de experiência com desenvolvimento de software.<br>🛠 Comecei a programar em C, depois passei para Java e hoje uso mais Python.<br>📒 Estou buscando me capacitar mais aqui na Dio e com foco em DevOps atualmente.</p>
+<p align="left">Olá colegas da Dio! 👋<br><br>🤠 Me chamo Quenã, sou natural de POA/RS e moro em Florianópolis/SC.<br>🏴‍☠️ Fã de One Piece e Star Wars.<br>🎓 Formado e Mestrando em Engª Mecânica.<br>👨🏻‍🔧 Já tenho alguns anos de eqtdXperiência com desenvolvimento de software.<br>🛠 Comecei a programar em C, depois passei para Java e hoje uso mais Python.<br>📒 Estou buscando me capacitar mais aqui na Dio e com foco em DevOps atualmente.</p>
 
 ###
 

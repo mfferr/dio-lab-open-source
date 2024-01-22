@@ -17,7 +17,7 @@
 
 ## Um pouco sobre mim
 
-Sou aspirante a desenvolvedor de jogos, com mais experiência em design de levels. Estou fazendo um Bootcamp Potência Tech iFood - Desenvolvimento de Jogos, tendo experiência em projetos práticos individuais, utilizando tecnologias como HTML, CSS, Unreal Engine e outras.<br>
+Sou aspirante a desenvolvedor de jogos, com mais eqtdXperiência em design de levels. Estou fazendo um Bootcamp Potência Tech iFood - Desenvolvimento de Jogos, tendo eqtdXperiência em projetos práticos individuais, utilizando tecnologias como HTML, CSS, Unreal Engine e outras.<br>
 
 Sou gastrólogo, adoro cozinhar, trabalhei em diversos restaurantes pelo Rio Grande Do Norte. Sempre gostei de moda, e as vezes me inspiro a fazer roupas utilizando a técnica do Tie Die, o que me faz meditar a respeito da jornada da vida. No meio dessas meditações, em um processo de brainstorming, me vi em transição de carreira para a área de tecnologia.<br>
 
@@ -27,28 +27,34 @@ Foi nesse momento, que entendi o porque a tecnologia entrou na minha vida, por g
 
 <!-- <code><img width="4%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg"></code> -->
 <!-- <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code> -->
+
 <code><img width="4%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/HTML.svg"></code>
 <code><img width="4%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/CSS.svg"></code>
-  
+
 ##
-  ### Tools:
-  <code><img width="4%" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
-  <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-  <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-   <code><img width="8%" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"></code>
-   <code><img width="8%" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></code>
-   <code><img width="8%" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></code>
+
+### Tools:
+
+<code><img width="4%" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
+<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img width="8%" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"></code>
+<code><img width="8%" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></code>
+<code><img width="8%" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></code>
+
   <!-- <code><img width="4%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Unity-Dark.svg"></code> -->
   <!-- <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code> -->
-  <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>  <br>
-  
+
+<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code> <br>
+
   <!-- <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code> -->
   <!-- <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code> -->
-  
-  
+
 ##
+
 ### Studying in this moment:
-  Design de levels
-  JavaScript
-  Desenvolvimento de games
-  Unreal Engine
+
+Design de levels
+JavaScript
+Desenvolvimento de games
+Unreal Engine

@@ -1,4 +1,3 @@
-
 <div>
     <h1>oi, meu nome é breno tudo bem?  👋 </h1>
     <h2>Bem vindo ao meu Perfil.</h2>
@@ -8,7 +7,7 @@ Porém, sempre um destaque nos estudos, principalmente em exatas, era incentivad
 Ja trabalhava com a informatica e administração em uma renomada loja de veiculos como aprendiz. Pouco tempo depois, aos 18 anos, me tornei o professor ao qual me socorria na senhora Logica de programação, na mesma escola. Aqui, o sabio mestre yoda ja diria "ser programador, vc deve". Comecei no ano seguinte Tec. em Analise e desenvolvimento de sistemas, me apaixonei ainda mais, e com dedicação, em 2022, me formei, com a premiação de maior nota da turma, progredindo nessa vida tec.
 Hoje, tenho 21 anos, sou um programador web, com maior conhecimento na area back-end,  mais habituado com a tecnologia Java, mas buscando conhecimento para torna-me fullstack.Apaixonado em novas tecs, tendencias do mercado e inovações. Um gosto um pouco estranho, é o fato de gostar de resolver problemas. Graças a todas as oportunidades, sou um hoje, um analista de suporte, dedicado, em uma otima empresa de prestação de serviço publico, aprimorando ainda mais para trabalhar em uma empresa como dev, mas muito grato, por toda essa historia me agregar habilidades de comunicação, liderança e principalmente, em resolver os problemas.
     </p>
-    <p>Seguimos firmes, e mais para frente, eu volto pra contar um pouco da experiencia que o conhecimento vem me agregando... 
+    <p>Seguimos firmes, e mais para frente, eu volto pra contar um pouco da eqtdXperiencia que o conhecimento vem me agregando... 
     </p>
 </div>
 <div>
@@ -32,4 +31,3 @@ Hoje, tenho 21 anos, sou um programador web, com maior conhecimento na area back
 </div>
 <br>
 <br>
-

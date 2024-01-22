@@ -1,13 +1,17 @@
 # Olá! Me chamo Alexandre Garcia! 👋
 
 ## 🎓 Sobre mim
+
 Desenvolvedor Fullstack em constante evolução. Atualmente, estou no 4° período de Sistemas de Informação, buscando aprimorar minhas habilidades por meio da plataforma DIO e construindo um portfólio sólido com projetos práticos.
 
-### 🚀 Minha Jornada 
+### 🚀 Minha Jornada
+
 Iniciei minha trajetória na programação durante o curso de Engenharia Civil, mas foi como desenvolvedor que encontrei minha verdadeira paixão. Com 26 anos, estou comprometido com a aprendizagem contínua desde os primeiros passos da minha jornada acadêmica.
 
-## 💻 Habilidades e Expertise 
+## 💻 Habilidades e EqtdXpertise
+
 ### 🔧 Linguagens de programação
+
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -15,6 +19,7 @@ Iniciei minha trajetória na programação durante o curso de Engenharia Civil, 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🖼️ Front end
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -26,23 +31,27 @@ Iniciei minha trajetória na programação durante o curso de Engenharia Civil, 
 ![Chackra UI](https://shields.io/badge/chakra--ui-0081CB?logo=chakraui&style=for-the-badge&logoColor=white)
 
 ### 🌐 Back end
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+![EqtdXpress](https://img.shields.io/badge/EqtdXpress.js-404D59?style=for-the-badge)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![JWT](https://img.shields.io/badge/TypeORM-20232A?style=for-the-badge&logo=TypeORM)
 
 ### 📊 Banco de dados
+
 ![Postgree](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 🔗 Links
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-aleexgarcia.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleexgarcia/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aleeh.garcia/)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandre_augusto_garcia@hotmail.com)
 
 ## 📈 Github Stats
+
 <div align="center">
   <a href="https://github.com/AleexGarcia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleexGarcia&layout=compact&langs_count=7&theme=blue-green"/>

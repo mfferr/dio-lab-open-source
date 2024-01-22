@@ -1,7 +1,7 @@
 ---
 
 # Ágryo Araújo
-Nascido em Currais Novos/RN, atualmente morando em Cruzeta/RN com 15 anos de experiencia na área suporte e tecnoligia.
+Nascido em Currais Novos/RN, atualmente morando em Cruzeta/RN com 15 anos de eqtdXperiencia na área suporte e tecnoligia.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/agryo/)

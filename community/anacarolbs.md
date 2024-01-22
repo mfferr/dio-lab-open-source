@@ -2,13 +2,12 @@
 
 Olá, Sou formada em administração, cursando ciência da computação e estou participando do bootcamp da DIO.
 
-Estou em transição de carreira para a área de tecnologia! Possuo 10 anos de experiência na área Administrativa/Recursos Humanos e atualmente estou atuando como Product Owner em um projeto na área da saúde. 
+Estou em transição de carreira para a área de tecnologia! Possuo 10 anos de eqtdXperiência na área Administrativa/Recursos Humanos e atualmente estou atuando como Product Owner em um projeto na área da saúde.
 
 Possuo as certificações Itil Foundation V3 (Axelos), Agile Scrum Foundation (Exin), Scrum Foundation Professional Certificate (Certiprof). Estou estudando para tirar a certificação AZ-900 Microsoft Azure Fundamentals.
-  
+
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacarolbs&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolbs)](https://github.com/anacarolbs/github-readme-stats)
-
 
 <div style="display: inline_block"><br>
 
@@ -25,13 +24,12 @@ Possuo as certificações Itil Foundation V3 (Axelos), Agile Scrum Foundation (E
   
   ##
  
-<div> 
-
+<div>
 
 ## ☎️ Contato
 
-  <a href = "mailto:souzaanacarolb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anacarolbs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<a href = "mailto:souzaanacarolb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/anacarolbs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 </div>
 # Conecte-se comigo

@@ -1,4 +1,5 @@
 ### Ola! eu sou o Alessandro da Mata 👋
+
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-da-mata-gon%C3%A7alves-4ba89311b) [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-alessandro.onrender.com/)
 
 <div>
@@ -28,11 +29,7 @@
 Como estudante de Bacharelado em Sistemas de Informação no Instituto Federal do Norte de Minas Gerais - Campus Arinos, estou constantemente inspirado pela             capacidade da tecnologia de transformar o mundo. Estou comprometido em aprimorar minhas habilidades de desenvolvimento de software e, eventualmente, criar             soluções criativas que possam fazer a diferença na vida das pessoas.
 </p>
 
-
-
-<!-- Com sede por conhecimento e inovação, estou sempre em busca de novas tecnologias para desenvolver aplicativos móveis incríveis, utilizando as habilidades adquiridas em meu curso de bacharelado em Sistemas de Informação no Instituto Federal do Norte de Minas Gerais - Campus Arinos, e me aprimorando em ferramentas como Expo e React Native. -->
-
+<!-- Com sede por conhecimento e inovação, estou sempre em busca de novas tecnologias para desenvolver aplicativos móveis incríveis, utilizando as habilidades adquiridas em meu curso de bacharelado em Sistemas de Informação no Instituto Federal do Norte de Minas Gerais - Campus Arinos, e me aprimorando em ferramentas como EqtdXpo e React Native. -->
 
 <!-- https://emojipedia.org/ -->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
-

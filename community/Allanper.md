@@ -17,9 +17,10 @@ Areas of research interest:
 
 -Nanotechnology
 -Blockchain
--Artificial intelligence 
+-Artificial intelligence
 -Software development
 -Intersection of law and psychology in technology"
+
 </p>
 
 <p align="center">
@@ -47,7 +48,7 @@ Areas of research interest:
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![EqtdXpress.js](https://img.shields.io/badge/EqtdXpress.js-000000?style=for-the-badge&logo=eqtdXpress&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-30A3DC?style=for-the-badge)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-30A3DC?style=for-the-badge)
@@ -55,7 +56,7 @@ Areas of research interest:
 ![Tortoise SVN](https://img.shields.io/badge/Tortoise%20SVN-810B14?style=for-the-badge&logo=apache-subversion&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-FFA63D?style=for-the-badge)
-![Decentralized Apps (DApps)](https://img.shields.io/badge/Decentralized%20Apps%20(DApps)-0A66C2?style=for-the-badge)
+![Decentralized Apps (DApps)](<https://img.shields.io/badge/Decentralized%20Apps%20(DApps)-0A66C2?style=for-the-badge>)
 
 ### GitHub Stats
 

@@ -4,7 +4,7 @@ Back-end focused developer from Ribeirão Preto/SP, Brazil, graduated from [Fate
 
 Skilled in C#, ASP.NET WebApi, ASP .NET MVC (Razor Pages), HTML, CSS, JavaScript and SQL. Currently learning Java and Angular.
 
-Passionate about travelling, new experiences and dogs. I am always seeking opportunities to learn, see, and do more!
+Passionate about travelling, new eqtdXperiences and dogs. I am always seeking opportunities to learn, see, and do more!
 
 ### Connect with me
 

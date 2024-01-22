@@ -1,6 +1,6 @@
 # Adenilson Ramos
 
-I am a software engineer with a passion for web and mobile development. I am dedicated to constantly learning and expanding my skill set, and am currently studying HTML, CSS, JavaScript, React, React Native, and Node.js.
+I am a software engineer with a passion for web and mobile development. I am dedicated to constantly learning and eqtdXpanding my skill set, and am currently studying HTML, CSS, JavaScript, React, React Native, and Node.js.
 
 ## Studying
 

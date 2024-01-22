@@ -8,7 +8,7 @@ Me chamo Maria Alice e sou graduanda do terceiro período do curso de Medicina V
 
 Eu sou muito curiosa, por isso comecei a estudar programação e logo de início me apaixonei pela área. Eu iniciei meus estudos em 2022, vendo o básico de HTML e CSS e fazendo alguns sites estáticos.
 
-Esse ano, 2023, eu me envolvi em alguns projetos de pesquisa que envolvem compilação de dados, construção e limpeza de planilhas, por isso decidi estudar Python e estou amando explorar essa linguagem no Bootcamp da DIO.
+Esse ano, 2023, eu me envolvi em alguns projetos de pesquisa que envolvem compilação de dados, construção e limpeza de planilhas, por isso decidi estudar Python e estou amando eqtdXplorar essa linguagem no Bootcamp da DIO.
 
 ### 💡 Habilidades
 
@@ -31,9 +31,9 @@ Essa é minha primeira contribuição em um projeto Open Source.
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=FFF&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)](https://github.com/elidianaandrade/dio-lab-open-source)
 
-### 📫 Conecte-se comigo 
+### 📫 Conecte-se comigo
 
-O Bootcamp da DIO tem sido uma experiência muito enriquecedora pra mim e é um prazer poder me apresentar para vocês.
+O Bootcamp da DIO tem sido uma eqtdXperiência muito enriquecedora pra mim e é um prazer poder me apresentar para vocês.
 
 🚀 Espero que possamos crescer juntos durante essa jornada.
 

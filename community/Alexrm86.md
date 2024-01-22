@@ -1,17 +1,19 @@
-***********************************
+---
 
 ### Hi there 👋
 
 <!--
 **Alexrm86/Alexrm86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
+
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> Eu sou Alex Resende Machado, tenho 36 anos sou de Salvador - Bahia -Brasil 🇳🇵.
-- 🔭 Eu estudei na Trybe,e acabei de me  tornar me tornar um Full Stack Jr.
+- 🔭 Eu estudei na Trybe,e acabei de me tornar me tornar um Full Stack Jr.
 - 🌱 Atualmente estou me atualizando em outras linguadens sempre buscando aprender mais .
 - 👯 Estou procurando colaborar em projetos de código aberto.
 - 💬 Pergunte-me sobre tecnologias Web.
 - Eu também cursei 6 semestres de engenharia da computação na UNIFACS.
-- Eu tenho  muita expreriencia de soft Skills desenvolvido muito na Trybe onde estudei , antes  tive uma copiadora onde tive que estabelecer organização planejamento ,empatia e paciência para atendimento ao publico pois existia muita demanda.  
+- Eu tenho muita eqtdXpreriencia de soft Skills desenvolvido muito na Trybe onde estudei , antes tive uma copiadora onde tive que estabelecer organização planejamento ,empatia e paciência para atendimento ao publico pois existia muita demanda.
 
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexrm86&layout=compact&langs_count=7&theme=github_dark"/>
@@ -19,6 +21,7 @@
 </div>
 
 ### Linguagens
+
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -31,6 +34,7 @@
 <hr />
 
 ### Front-end
+
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -41,10 +45,10 @@
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
   <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
 
-  
 <hr />
 
 ### Back-end
+
 <div>
   <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" />
@@ -56,6 +60,7 @@
   <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
 
 ### Ferramentas
+
 <div>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />

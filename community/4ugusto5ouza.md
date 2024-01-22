@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - 📚 Estudante do 6º período do curso de Engenharia de Software na UniFil.
-- 👨‍💻 Desenvolvedor Full Stack com mais de três anos de experiência em .NET e React.js.
+- 👨‍💻 Desenvolvedor Full Stack com mais de três anos de eqtdXperiência em .NET e React.js.
 
-## Experiência
+## EqtdXperiência
 
 - 💼 Trabalho atualmente como Desenvolvedor Full Stack.
 - 🔧 Minhas habilidades incluem desenvolvimento web, design de banco de dados, arquitetura de software e muito mais.

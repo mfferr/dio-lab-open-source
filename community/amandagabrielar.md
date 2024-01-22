@@ -1,11 +1,13 @@
-# Amanda Gabriela Rodrigues 
- 📚Estudante de *Analise e Desenvolvimento de Sistemas* dedico meu tempo livre para estudar inglês e explorar novas ferramentas, Desenvolvedora Full Stack, paixão por tecnologia e programação.👩🏻‍💻 
+# Amanda Gabriela Rodrigues
+
+📚Estudante de _Analise e Desenvolvimento de Sistemas_ dedico meu tempo livre para estudar inglês e eqtdXplorar novas ferramentas, Desenvolvedora Full Stack, paixão por tecnologia e programação.👩🏻‍💻
 
 ### Habilidades 🎈
+
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) 
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/Sql-000?style=for-the-badge&logo=sql)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)

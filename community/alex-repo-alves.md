@@ -4,10 +4,10 @@ Desenvolvedor Backend | Java | Spring Boot
 
 ## Sobre mim
 
-Sou um desenvolvedor backend apaixonado por criar soluções robustas e eficientes usando as mais recentes tecnologias. Minhas principais áreas de expertise incluem Java, Spring Boot, PostgreSQL, Python e Git. Estou constantemente buscando aprender mais e aprimorar minhas habilidades técnicas.
+Sou um desenvolvedor backend apaixonado por criar soluções robustas e eficientes usando as mais recentes tecnologias. Minhas principais áreas de eqtdXpertise incluem Java, Spring Boot, PostgreSQL, Python e Git. Estou constantemente buscando aprender mais e aprimorar minhas habilidades técnicas.
 
 - 🔭 Atualamente servidor público na área de TI.
-- 🌱 Sempre aprendendo e explorando novas tecnologias.
+- 🌱 Sempre aprendendo e eqtdXplorando novas tecnologias.
 - 💬 Pergunte-me sobre desenvolvimento backend, Java, Spring Boot ou qualquer coisa relacionada!
 
 ## Tecnologias e Ferramentas
@@ -32,4 +32,3 @@ Sou um desenvolvedor backend apaixonado por criar soluções robustas e eficient
 Você pode me encontrar nas seguintes plataformas:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-alves)
-

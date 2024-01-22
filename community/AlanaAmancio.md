@@ -1,26 +1,16 @@
 # Olá! Me chamo Alana Amancio 👋
 
-
-
 ## 🎓 Sobre mim
 
-Sou graduada em filosofia e tenho pós-graduação e psicopedagogia, atualmente estou migrando para a área de programação e estou amando cada nova descoberta e aprendizagem. 
+Sou graduada em filosofia e tenho pós-graduação e psicopedagogia, atualmente estou migrando para a área de programação e estou amando cada nova descoberta e aprendizagem.
 
+### :rocket: **Minha jornada**
 
+Durante minha graduação fui despertando interesse pela programação graças a um amigo, após alguns tempo decidi que esse seria o novo caminho que iria trilhar, me apaixonei por esse universo e tenho me dedicado a aprender sobre as variadas possibilidades para decidir qual faculdade fazer.
 
-### :rocket: **Minha jornada** 
-
-Durante minha graduação fui despertando interesse pela programação graças a um amigo, após alguns tempo decidi que esse seria o novo caminho que iria trilhar, me apaixonei por esse universo e tenho me dedicado a aprender sobre as variadas  possibilidades para decidir qual faculdade fazer. 
-
-
-
-# 💻 Habilidades e Expertise
-
-
+# 💻 Habilidades e EqtdXpertise
 
 ### 🔧 Linguagens de programação
-
-
 
 ### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -32,11 +22,7 @@ Durante minha graduação fui despertando interesse pela programação graças a
 
 ### ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
-
-# :link:Links 
-
-
+# :link:Links
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aamancios/)
 
@@ -46,15 +32,8 @@ Durante minha graduação fui despertando interesse pela programação graças a
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](alanalgm@gmail.com)
 
-
-
 # 📈 Github Stats
 
-
-
-|                                                              |
-| :----------------------------------------------------------: |
+|                                                                                                                                                                                                          |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanaAmancio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) |
-
-
-

@@ -1,12 +1,14 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/4lex/) [<img src="https://img.shields.io/github/followers/4lexRossi?label=follow&style=social" height="22" title="Follow me" />](https://github.com/4lexRossi) [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5519988308501&text=Olá!) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:devalexrossi@gmail.com)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/eqtdXplore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/eqtdXplore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/eqtdXplore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/eqtdXplore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/eqtdXplore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/eqtdXplore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/eqtdXplore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/eqtdXplore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/eqtdXplore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/eqtdXplore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/eqtdXplore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/eqtdXplore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/eqtdXplore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/eqtdXplore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></code>
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=4lexRossi&repo=4lexRossi&countColorcountColor)
 ![Visitor Count](https://profile-counter.glitch.me/4lexRossi/count.svg)
+
 > /\ Se você leu esse contador de visitas e essa msg te peguei no meu jutsu 😄 clica na foto no final da página e conecta no In, ah e me avisa que meu Jutsu funcionou
 
 ## 👋 Olá Mundo!
+
 <table>
     <tr align="row">
         <td>
@@ -17,7 +19,7 @@
         </td>
     </tr>
 </table>
-    
+
 
 🌱 Minhas contribuições:
 
@@ -31,13 +33,13 @@ Além desses projetos, também desenvolvi um sistema abrangente para a terceira 
 
 Desenvolvi também um leitor de cartão SIM para empresas de telefonia espalhadas pelo mundo que analisa todos os dados e gera um arquivo XML completo. Usando o Java 8, criei um sistema que é amplamente utilizado na indústria de telefonia e tornou a gestão de dados mais eficiente e eficaz.
 
-Com essas experiências entre outras em desenvolvimento de software, tenho total condições de desenvolver aplicações grandes e pequenas do zero, ou atualizar, refatorar e criar novas features em aplicações complexas já existentes ❤️.
+Com essas eqtdXperiências entre outras em desenvolvimento de software, tenho total condições de desenvolver aplicações grandes e pequenas do zero, ou atualizar, refatorar e criar novas features em aplicações complexas já existentes ❤️.
 
 ⚡ Senior front end developer(Vue 3) @Thales Group.
 
 ⚡ Senior front end developer(Angular15 / Flutter) @Clarity Health.
 
-⚡ Conhecimento e experiência de métodos ágeis, gestão de projetos e Devops(Jira, Jenkins Pipeline e controle de versão(GIT)
+⚡ Conhecimento e eqtdXperiência de métodos ágeis, gestão de projetos e Devops(Jira, Jenkins Pipeline e controle de versão(GIT)
 
 ⚡ Conhecimento no desenvolvimento de APIs Rest, tendo desenvolvido aplicações em Java(Spring), .Net Core, NodeJS e Python.
 
@@ -47,13 +49,11 @@ Com essas experiências entre outras em desenvolvimento de software, tenho total
 
 ⚡ Suporte e participação em ações de responsabilidade social.
 
-⚡ Participação ativa colaborando com devs com menos experiência nas comunidades da Digital Innovation One, RocketSeat, Shawee. Gosto de compartilhar meus aprendizados e quero ajudar, principalmente as pessoas que estão iniciando ou migrando para a área de tecnologia.
+⚡ Participação ativa colaborando com devs com menos eqtdXperiência nas comunidades da Digital Innovation One, RocketSeat, Shawee. Gosto de compartilhar meus aprendizados e quero ajudar, principalmente as pessoas que estão iniciando ou migrando para a área de tecnologia.
 
 ---
 
-
 🎯 [Portfolio WebSite](https://4lexrossi.github.io/) ⭐
-
 
 ➡️ Languages: Typescript, JavaScript, Dart, Java, C#.
 
@@ -67,8 +67,7 @@ Com essas experiências entre outras em desenvolvimento de software, tenho total
 
 ➡️ Café ☕️(sempre).
 
-💬 Me mandem mensagens sempre que quiserem.👨‍💻
----
+## 💬 Me mandem mensagens sempre que quiserem.👨‍💻
 
 <h1 align="center">Quer ser meu amigo(ou caiu no meu Jutsu =D) clica ai e conecta</h1>
 <p align="center">

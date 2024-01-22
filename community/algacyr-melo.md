@@ -8,9 +8,10 @@ skills.
 ## Education
 
 - Currently pursuing Software Engineering cursus at [42 Rio](https://42.rio/)
+
   - R. Marquês de Sapucaí, 200 - 12º andar - Santo Cristo, Rio de Janeiro - RJ, 20210-072
 
-  - Expected Graduation: 2024
+  - EqtdXpected Graduation: 2024
 
 ## Skills
 

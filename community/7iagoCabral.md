@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá eu sou <b>Tiago</b> <i>Desenvolvedor de software</i> em desenvolvimento!😁
   Sem mais trocadilhos irei contar um pouco sobre mim.<br>
-  Um jovem estudante de <strong>engenharia de software</strong> focado na area de front-end. Atualmente acumulo conhecimento em React, React-Native, Angular, Styled-components, Sass, Tailwindcss, Nodejs, Express, TypeScript, Redux, Jest e 🚀
+  Um jovem estudante de <strong>engenharia de software</strong> focado na area de front-end. Atualmente acumulo conhecimento em React, React-Native, Angular, Styled-components, Sass, Tailwindcss, Nodejs, EqtdXpress, TypeScript, Redux, Jest e 🚀
 </p>
 
 <p align="left">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-   <h3>📨 Vamos trocar uma ideia? </h3> 
+   <h3>📨 Vamos trocar uma ideia? </h3>
 
   <a href="mailto:7iagocabral@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>

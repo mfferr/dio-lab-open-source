@@ -1,4 +1,4 @@
-<!-- Background doesn't word on github, but, in another markdown pages, it elevate the experience to another level -->
+<!-- Background doesn't word on github, but, in another markdown pages, it elevate the eqtdXperience to another level -->
 <div style="display: flex; flex-direction: column;  background-image: url('https://aasanticioli.github.io/assets/images/background/background.jpg'); background-repeat: no-repeat; background-attachment: fixed; padding:  40px; overflow: hidden;">
 
   <!-- Generated using this tool: https://readme-typing-svg.herokuapp.com/demo/ -->
@@ -8,7 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=40&pause=1000&color=F6F7CC&center=true&multiline=true&repeat=false&width=800&height=200&lines=+;%22Any+fool+can+write+code+that+a+computer+can+understand.+;Good+programmers+write+code+that+humans+can+understand.%22;%E2%80%93+Martin+Fowler." 
   alt='"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler.' />
   </div>
-
 
   <div style="order: 2; margin: 0 0 0 0; padding-top: 80px; text-align: left;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F6F7CC&vCenter=true&repeat=false&width=435&lines=Hello+and+Welcome" alt="Hello and Welcome" />
@@ -31,14 +30,13 @@ _I've been studying and working a lot, so I don't get to participate in social m
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/AASanticioli)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/AleSanticioli)
-  
+
   </div>
   <br/>
 
-
   <div style="order: 5">
 
-  ### I've already had contact with these technologies (either books, courses, personal or professional projects):
+### I've already had contact with these technologies (either books, courses, personal or professional projects):
 
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![ESP32](https://img.shields.io/badge/espressif-000?style=for-the-badge&logo=espressif)
@@ -69,8 +67,6 @@ _I've been studying and working a lot, so I don't get to participate in social m
   </div>
   <br/>
 
-
-
   <div style="order: 6">
   
   ### I've already had contact with this cloud
@@ -79,8 +75,6 @@ _I've been studying and working a lot, so I don't get to participate in social m
 
   </div>
   <br/>
-
-
 
   <div style="order: 7">
   
@@ -98,43 +92,40 @@ _I've been studying and working a lot, so I don't get to participate in social m
   </div>
   <br/>
 
-
   <div style="order: 8">
   
   ### Concepts I've been focusing on:
 
-* Agile Development
-* Solid Principles
-* Clean Code
-* Clean Architecture
-* Domain Driven Design (I've just started to read the blue Evans book)
-* Design Patterns
-* TDD
+- Agile Development
+- Solid Principles
+- Clean Code
+- Clean Architecture
+- Domain Driven Design (I've just started to read the blue Evans book)
+- Design Patterns
+- TDD
 
   </div>
   <br/>
-
 
   <div style="order: 9">
 
   ### Personal GitHub Stats
+
   _Just for fun_.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AASANTICIOLI&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AASANTICIOLI&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
   </div>
   <br/>
 
-
   <div style="order: 10">
 
+### &#9888; GitHub Flavored Markdown Spec
 
-  ### &#9888; GitHub Flavored Markdown Spec
-  _There are many restrictions when writing markdown for GitHub._.
-  
+_There are many restrictions when writing markdown for GitHub._.
 
-  _All this restrictions are described in the [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)._ 
-
+_All this restrictions are described in the [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)._
 
   </div>
   <br/>

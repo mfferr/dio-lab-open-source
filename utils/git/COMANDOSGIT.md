@@ -8,6 +8,7 @@ Este documento fornece uma visão geral dos comandos essenciais do Git.
 😁 Sinta-se à vontade para contribuir e melhorar este guia!
 
 ## Índice
+
 - [⚙️ Configurando o Git](#configurando-o-git)
 - [📚 Comandos Básicos](#comandos-basicos)
   - [Operações de Repositório](#operacoes-de-repositorio)
@@ -31,9 +32,11 @@ Este documento fornece uma visão geral dos comandos essenciais do Git.
   - [Merge Avançado](#merge-avancado)
 
 <a id="configurando-o-git"></a>
+
 ## ⚙️ Configurando o Git
 
 - **Configurando seu e-mail**:
+
   ```bash
   $ git config user.email [seu_email_aqui]
   ```
@@ -46,11 +49,13 @@ Este documento fornece uma visão geral dos comandos essenciais do Git.
 Se você precisar especificar o escopo para sua configuração, use as tags abaixo:
 
 - **Escopo local** (específico para o repositório atual):
+
   ```bash
   $ git config --local user.email [seu_email_aqui]
   ```
 
 - **Escopo global** (aplica-se a todos os repositórios em seu sistema):
+
   ```bash
   $ git config --global user.email [seu_email_aqui]
   ```
@@ -61,22 +66,27 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   ```
 
 <a id="comandos-basicos"></a>
+
 ## 📚 Comandos Básicos
 
 <a id="operacoes-de-repositorio"></a>
+
 ### Operações de Repositório
 
 - **Inicializando um novo repositório local**:
+
   ```bash
   $ git init
   ```
 
 - **Clonando um repositório remoto existente**:
+
   ```bash
   $ git clone [url_origem_remota]
   ```
 
 - **Clonando um branch específico**:
+
   ```bash
   $ git clone --branch [nome_do_branch] [url_origem_remota]
   ```
@@ -87,19 +97,23 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   ```
 
 <a id="conexoes-remotas"></a>
+
 ### Conexões Remotas
 
 - **Listando repositórios remotos conectados**:
+
   ```bash
   $ git remote
   ```
 
 - **Adicionando uma nova conexão remota**:
+
   ```bash
   $ git remote add [nome_remoto] [url_para_remoto]
   ```
 
 - **Removendo uma conexão remota existente**:
+
   ```bash
   $ git remote rm [nome_remoto]
   ```
@@ -110,27 +124,35 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   ```
 
 <a id="operacoes-de-commit"></a>
+
 ### Operações de Commit
 
 - **Preparando todas as mudanças para commit**:
+
   ```bash
   $ git add --all
   ```
+
   ou
+
   ```bash
   $ git add -a
   ```
+
   ou simplesmente
+
   ```bash
   $ git add .
   ```
 
 - **Commitando mudanças preparadas com uma mensagem**:
+
   ```bash
   $ git commit -m "sua mensagem aqui"
   ```
 
 - **Preparando e commitando todas as mudanças em uma etapa**:
+
   ```bash
   $ git commit -a -m "sua mensagem aqui"
   ```
@@ -141,27 +163,33 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   ```
 
 <a id="comandos-intermediarios-do-git"></a>
+
 ## 📈 Comandos Intermediários do Git
 
 <a id="criacao-de-branches-e-merging"></a>
+
 ### Criação de Branches e Merging
 
 - **Listando todos os branches locais no repositório atual**:
+
   ```bash
   $ git branch
   ```
 
 - **Mudando para um branch**:
+
   ```bash
   $ git checkout [nome_do_branch]
   ```
 
 - **Criando e mudando para um novo branch**:
+
   ```bash
   $ git checkout -b [nome_do_branch]
   ```
 
 - **Fazer merge de um branch no branch ativo**:
+
   ```bash
   $ git merge [nome_do_branch]
   ```
@@ -172,6 +200,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   ```
 
 <a id="stashes"></a>
+
 ### Stashes (Guardando Mudanças Temporariamente)
 
 - **Criando um stash das mudanças atuais**:
@@ -181,6 +210,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Salva temporariamente mudanças que ainda não foram commitadas.
 
 ####
+
 ####
 
 - **Criando um stash das mudanças atuais com uma mensagem**:
@@ -190,6 +220,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Salva temporariamente mudanças que ainda não foram commitadas com uma mensagem descritiva.
 
 ####
+
 ####
 
 - **Listando todos os stashes**:
@@ -199,6 +230,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Mostra uma lista de todos os stashes criados.
 
 ####
+
 ####
 
 - **Aplicando um stash específico**:
@@ -208,9 +240,11 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Restaura as mudanças de um stash específico, onde `n` é o número do stash (por exemplo, `stash@{0}`, `stash@{1}`).
 
 ####
+
 ####
 
 - **Aplicando o stash mais recente**:
+
   ```bash
   $ git stash apply
   ```
@@ -222,6 +256,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Remove o stash mais recente.
 
 ####
+
 ####
 
 - **Descartando um stash específico**:
@@ -231,6 +266,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Remove um stash específico baseado no número `n`.
 
 ####
+
 ####
 
 - **Aplicando e descartando o stash mais recente**:
@@ -240,9 +276,11 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Aplica o stash mais recente e, em seguida, o remove da lista de stashes.
 
 ####
+
 ####
 
 <a id="reescrevendo-o-historico"></a>
+
 ### Reescrevendo o Histórico
 
 - **Rebase de sua branch**:
@@ -252,6 +290,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Reaplica os commits de sua branch sobre a branch base. Útil para garantir um histórico linear.
 
 ####
+
 ####
 
 - **Rebase interativo**:
@@ -261,6 +300,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Permite editar commits no processo.
 
 ####
+
 ####
 
 - **Continuar o rebase após resolver conflitos**:
@@ -269,6 +309,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   ```
 
 ####
+
 ####
 
 - **Abortar o rebase atual**:
@@ -277,6 +318,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   ```
 
 ####
+
 ####
 
 - **Alterar o último commit (sem mudar a mensagem do commit)**:
@@ -286,9 +328,11 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Permite adicionar novas mudanças ao commit anterior sem alterar sua mensagem.
 
 ####
+
 ####
 
 <a id="repositorios-remotos"></a>
+
 ### Repositórios Remotos
 
 - **Buscar alterações do remoto sem merge**:
@@ -298,6 +342,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Este comando recupera atualizações de um repositório remoto, mas não faz o merge dessas alterações com sua branch local. É útil para ver atualizações antes de decidir se deseja integrá-las.
 
 ####
+
 ####
 
 - **Puxar alterações de um repositório remoto**:
@@ -307,6 +352,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Este comando busca e tenta automaticamente fazer o merge das alterações da branch remota especificada com sua branch local atual.
 
 ####
+
 ####
 
 - **Enviando uma branch para o remoto**:
@@ -316,6 +362,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Envia suas alterações locais para o repositório remoto. Isso atualiza a branch remota com seus commits recentes.
 
 ####
+
 ####
 
 - **Configurando uma conexão de rastreamento entre uma branch local e uma branch remota**:
@@ -325,6 +372,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Estabelece uma conexão de rastreamento entre a branch local e a branch remota especificada. Isso é útil porque permite que `git pull` e `git push` saibam automaticamente de qual branch remota puxar ou para qual enviar.
 
 ####
+
 ####
 
 - **Puxar alterações e fazer rebase (em vez de merge)**:
@@ -334,23 +382,29 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Em vez de fazer o merge dos commits, este comando reaplica seus commits locais sobre as alterações buscadas. Ajuda a manter um histórico de commits limpo e linear.
 
 ####
+
 ####
 
 <a id=inspecionando-mudancas></a>
+
 ### Inspecionando Mudanças
 
 - **Visualizar histórico de commits**:
+
   ```bash
   $ git log
   ```
 
 - **Visualizar o diff para as mudanças staged**:
+
   ```bash
   $ git diff --staged
   ```
+
   Mostra a diferença entre as mudanças staged e o último commit.
 
 - **Ver a diferença entre a branch atual e outra branch**:
+
   ```bash
   $ git diff [nome_outra_branch]
   ```
@@ -370,20 +424,25 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Exibe o histórico de commits em um formato conciso com branches e tags, facilitando o entendimento do histórico do repositório.
 
 <a id="comandos-avancados-do-git"></a>
+
 ## 🧠 Comandos Avançados do Git
 
 ### Refs e o Reflog
 
 - **Visualizar o reflog**:
+
   ```bash
   $ git reflog
   ```
+
   Mostra um registro de onde seu HEAD e as referências de branch estiveram. Pode ser usado para recuperar commits ou branches perdidos.
 
 - **Reaplicar um commit perdido**:
+
   ```bash
   $ git cherry-pick [hash_do_commit]
   ```
+
   Este comando pode ser usado após consultar o reflog para aplicar um commit que foi perdido (devido a reset, rebase, etc.)
 
 - **Recuperar um estado após um hard reset**:
@@ -395,21 +454,25 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
 ### Bisecting
 
 - **Iniciar o processo de bisect**:
+
   ```bash
   $ git bisect start
   ```
 
 - **Marcar um commit como bom**:
+
   ```bash
   $ git bisect good
   ```
 
 - **Marcar um commit como ruim**:
+
   ```bash
   $ git bisect bad
   ```
 
 - **Encerrar o processo de bisect**:
+
   ```bash
   $ git bisect reset
   ```
@@ -427,14 +490,15 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
 - **Substituindo todos os endereços de email no histórico**:
   ```bash
   $ git filter-branch --commit-filter 'if [ "$GIT_AUTHOR_EMAIL" = "old_email@example.com" ]; then
-       export GIT_AUTHOR_EMAIL=new_email@example.com;
-       export GIT_COMMITTER_EMAIL=new_email@example.com;
+       eqtdXport GIT_AUTHOR_EMAIL=new_email@example.com;
+       eqtdXport GIT_COMMITTER_EMAIL=new_email@example.com;
      fi;
      git commit-tree "$@"'
   ```
   ⚠️ **Aviso**: Este comando reescreve o histórico para substituir completamente os endereços de email em todo o repositório. Proceda com extrema cautela!
 
 ####
+
 ####
 
 - **Removendo um arquivo de todo o histórico do Git**:
@@ -444,9 +508,11 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   ⚠️ **Aviso**: Este comando reescreve o histórico para remover completamente um arquivo do repositório. Proceda com extrema cautela!
 
 ####
+
 ####
 
 <a id="submodulos"></a>
+
 ### Submódulos
 
 - **Adicionando um submódulo**:
@@ -456,6 +522,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Adiciona outro repositório como um submódulo no seu repositório atual. Isso permite que você inclua e monitore outro projeto dentro do seu próprio projeto.
 
 ####
+
 ####
 
 - **Atualizando todos os submódulos**:
@@ -472,23 +539,27 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
   Isso permite que você faça checkout em múltiplos branches simultaneamente em diferentes diretórios.
 
 ####
+
 ####
 
 <a id="rebase-avancado"></a>
+
 ### Rebase Avançado
 
 - **Iniciando um Rebase Interativo**:
+
   ```bash
   $ git rebase -i [nome_da_branch_base]
   ```
 
-- **Juntando os últimos *n* commits em um único**:
+- **Juntando os últimos _n_ commits em um único**:
   ```bash
   $ git rebase -i HEAD~[n]
   ```
   No editor de texto que aparece, substitua "pick" por "squash" ou "s" para os commits que você deseja juntar ao anterior (o que está acima deles).
 
 ####
+
 ####
 
 ### Limpeza
@@ -510,6 +581,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
 ####
 
 - **Removendo branches remotas que não existem mais**:
+
   ```bash
   $ git fetch -p
   ```
@@ -525,6 +597,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
 ### Cherry-picking
 
 - **Aplicando mudanças de commits específicos**:
+
   ```bash
   $ git cherry-pick [hash_do_commit1] [hash_do_commit2]
   ```
@@ -538,14 +611,17 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
 ####
 
 <a id="merge-avancado"></a>
+
 ### Merge Avançado
 
 - **Mesclando sem um commit automático**:
+
   ```bash
   $ git merge [nome_da_branch] --no-commit
   ```
 
 - **Mesclando e juntando todos os commits**:
+
   ```bash
   $ git merge --squash [nome_da_branch]
   ```
@@ -555,6 +631,7 @@ Se você precisar especificar o escopo para sua configuração, use as tags abai
 ####
 
 - **Visualizando conflitos de merge antes de mesclar**:
+
   ```bash
   $ git diff --name-only --diff-filter=U
   ```

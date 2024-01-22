@@ -10,32 +10,32 @@ As linguagens de programação que mais uso são Java, Python e C. Como estagiá
 
 **Habilidades:**
 
-* Criatividade e adaptabilidade
-* Comunicação e inteligência emocional
-* Inglês avançado
+- Criatividade e adaptabilidade
+- Comunicação e inteligência emocional
+- Inglês avançado
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 **Objetivos:**
 
-* Me tornar um professor em grandes universidades
-* Desenvolver pesquisas na área de redes e segurança
-* Aprender novas linguagens de programação
-* Começar na carreira de Jogos
+- Me tornar um professor em grandes universidades
+- Desenvolver pesquisas na área de redes e segurança
+- Aprender novas linguagens de programação
+- Começar na carreira de Jogos
 
-**Experiência:**
+**EqtdXperiência:**
 
-* Estágio em desenvolvimento de software
-* Membro do grupo de pesquisa em redes e segurança
+- Estágio em desenvolvimento de software
+- Membro do grupo de pesquisa em redes e segurança
 
 **Interesses:**
 
-* Jogos
-* Computação
-* Educação
+- Jogos
+- Computação
+- Educação
 
 **Contato:**
 
-* e-mail: <caleixodavi1811@gmail.com>
-* [LinkedIn] (https://www.linkedin.com/in/davi-aleixo-548b55b8/)
-* [GitHub] (https://github.com/AleixoCv)
+- e-mail: <caleixodavi1811@gmail.com>
+- [LinkedIn] (https://www.linkedin.com/in/davi-aleixo-548b55b8/)
+- [GitHub] (https://github.com/AleixoCv)

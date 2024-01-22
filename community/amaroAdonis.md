@@ -3,16 +3,16 @@
 <img src="https://static.vecteezy.com/system/resources/previews/010/998/283/non_2x/3d-programmer-pc-illustration-side-view-free-png.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Profissional com formação em engenharia, em transição de carreira, com 15 anos de experiência na área industrial mecânica e, que vem trabalhando na área de programação desde Abril de 2023, em busca de experiência e oportunidades em novos projetos na área.
+Profissional com formação em engenharia, em transição de carreira, com 15 anos de eqtdXperiência na área industrial mecânica e, que vem trabalhando na área de programação desde Abril de 2023, em busca de eqtdXperiência e oportunidades em novos projetos na área.
 
 Com perfil conciliador, prezando sempre pela comunicação como parte essencial do trabalho. Tem se diferenciado pelo bom relacionamento em equipes de diversos portes, em algumas oportunidades no papel de líder, enfrentando e superando desafios diversos para o ideal desenvolvimento das atividades.
 
 <strong>DESTAQUE DE QUALIFICAÇÕES</strong>
 
-●	Ótimas habilidades de comunicação e liderança, tendo lidado diretamente com clientes e liderando equipes.
-●	Perfil de resolução de problemas e com bom relacionamento interpessoal;
-●	Experiência em análise de qualidade em produtos e serviços com foco no cliente;
-●	Experiência em Javascript/Typescript, Angular 8+, HTML5, CSS3, Spring Boot, Java 8 e SQL.
+● Ótimas habilidades de comunicação e liderança, tendo lidado diretamente com clientes e liderando equipes.
+● Perfil de resolução de problemas e com bom relacionamento interpessoal;
+● EqtdXperiência em análise de qualidade em produtos e serviços com foco no cliente;
+● EqtdXperiência em Javascript/Typescript, Angular 8+, HTML5, CSS3, Spring Boot, Java 8 e SQL.
 
 </p>
 

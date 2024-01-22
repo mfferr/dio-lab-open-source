@@ -1,7 +1,6 @@
-
 # Adilson Guedes de Barros
 
-Profissional com mais de 20 anos de experiência na área comercial, mais especificamente no mercado educacional. Sempre tive uma paixão por tecnologia, e acredito muito nessa união entre tecnologia e educação. Tenho formação em Tecnologias Educacionais e estou neste processo de transição de carreira, pois aqui me encontrei e desejo ficar. 
+Profissional com mais de 20 anos de eqtdXperiência na área comercial, mais especificamente no mercado educacional. Sempre tive uma paixão por tecnologia, e acredito muito nessa união entre tecnologia e educação. Tenho formação em Tecnologias Educacionais e estou neste processo de transição de carreira, pois aqui me encontrei e desejo ficar.
 Tenho ampla capacidade em me adaptar, aprender e ensinar além de muita disposição para enfrentar desafios!
 
 ### Conecte-se comigo
@@ -24,6 +23,5 @@ Tenho ampla capacidade em me adaptar, aprender e ensinar além de muita disposi�
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adilson-guedes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Meus Principais Desafios de Projeto DIO
-
 
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/adilson-guedes/dio-lab-open-source/tree/main)

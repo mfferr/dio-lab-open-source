@@ -4,15 +4,16 @@
     <span> ANA CAROLINE DA SILVA</span>
 </h1>
 
-Tenho 29 anos, sou natural de Minas Gerais, moro a 7 anos em Santa Catarina. Fiz 5 anos de Psicologia e tenho 7 anos de experiencia em RH com enfase em DHO, porem me descobri fascinada pela area de dados ao me desenvolver atraves do Excel, evoluindo para o Microsoft BI e agora aprendendo Python. Atualmente faço curso de Análise e Desenvolvimento de Sistemas com o intuito de realizar a transição de carreira para area da tecnologia.
+Tenho 29 anos, sou natural de Minas Gerais, moro a 7 anos em Santa Catarina. Fiz 5 anos de Psicologia e tenho 7 anos de eqtdXperiencia em RH com enfase em DHO, porem me descobri fascinada pela area de dados ao me desenvolver atraves do Excel, evoluindo para o Microsoft BI e agora aprendendo Python. Atualmente faço curso de Análise e Desenvolvimento de Sistemas com o intuito de realizar a transição de carreira para area da tecnologia.
 
 ### Conecte-se comigo
+
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/anacarolinesilvaa/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:anacarolinesilvaa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/anacarolsilva/)
 
-
 ### Meus Principais Artigos na DIO
+
 <table>
   <thead>
     <tr align="left">

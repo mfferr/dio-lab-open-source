@@ -4,7 +4,7 @@ Para desenvolver as habilidades ensinadas neste desafio me propus a criar este R
 
 ## Sobre Mim
 
-Olá! Eu sou Aline, uma apaixonada por tecnologia e desenvolvimento de software. Com 33 anos, sou mãe do Nicolas e casada com o Jeilton, meu namorado do colégio. Minha jornada profissional foi diversificada, incluindo experiências como vendedora, sub-gerente de loja, promotora de vendas, auxiliar administrativa e até mesmo a aventura de abrir uma cafeteria.
+Olá! Eu sou Aline, uma apaixonada por tecnologia e desenvolvimento de software. Com 33 anos, sou mãe do Nicolas e casada com o Jeilton, meu namorado do colégio. Minha jornada profissional foi diversificada, incluindo eqtdXperiências como vendedora, sub-gerente de loja, promotora de vendas, auxiliar administrativa e até mesmo a aventura de abrir uma cafeteria.
 
 Foi em 2019 que me apaixonei pelo mundo da programação, e desde então, tenho investido tempo e esforço em aprimorar minhas habilidades. Em 2021, dei um passo decisivo ao iniciar o curso de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac. Paralelamente, tenho me dedicado a outros cursos e projetos que me permitem aprofundar meu conhecimento em programação.
 
@@ -54,22 +54,22 @@ O projeto "TADS 2022 - Senac" é um site desenvolvido em React. Este projeto foi
 
 - **Colaboração em Equipe:** O projeto oferece um ambiente colaborativo onde os alunos podem trabalhar em um único repositório, simulando um ambiente de produção semelhante ao de uma empresa real.
 
-- **Preparação para o Mercado de Trabalho:** A iniciativa visa preparar os alunos para o mercado de trabalho, proporcionando experiência prática em desenvolvimento web e colaboração em equipe.
+- **Preparação para o Mercado de Trabalho:** A iniciativa visa preparar os alunos para o mercado de trabalho, proporcionando eqtdXperiência prática em desenvolvimento web e colaboração em equipe.
 
 O projeto "TADS 2022 - Senac" representa uma valiosa oportunidade de aplicar conceitos de desenvolvimento web em um ambiente de equipe, adquirindo habilidades essenciais para a indústria de tecnologia.
 
 **Caso deseje visualizar mais detalhadamente os projetos citados anteriormente todos estão disponíveis nos links abaixo:**
 
-| Projeto | Link de acesso | Link Repositório |
-| ------- | -------------- | ---------------- |
+| Projeto                              | Link de acesso                                                          | Link Repositório                                                            |
+| ------------------------------------ | ----------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | Calculadora de Equações Lineares 3X3 | [Site Calculadora](https://alieponzani.github.io/Iniciacao_Cientifica/) | [Iniciacao_Cientifica](https://github.com/AliePonzani/Iniciacao_Cientifica) |
-| Projeto treinando Versionamento | [Site TADS 2022](https://alieponzani.github.io/tads2022/) | [tads2022](https://github.com/AliePonzani/tads2022) |
+| Projeto treinando Versionamento      | [Site TADS 2022](https://alieponzani.github.io/tads2022/)               | [tads2022](https://github.com/AliePonzani/tads2022)                         |
 
 ## Agradecimento
 
-Obrigada por dedicar seu tempo para explorar meu perfil e ler sobre minha jornada e projetos. Se você tiver interesse em conferir mais dos meus projetos, fique à vontade para explorar o meu GitHub: [GitHub - Aline Ponzani](https://github.com/AliePonzani).
+Obrigada por dedicar seu tempo para eqtdXplorar meu perfil e ler sobre minha jornada e projetos. Se você tiver interesse em conferir mais dos meus projetos, fique à vontade para eqtdXplorar o meu GitHub: [GitHub - Aline Ponzani](https://github.com/AliePonzani).
 
-Para entrar em contato ou saber mais sobre minha trajetória e experiências, você pode me encontrar no LinkedIn: [LinkedIn - Aline Ponzani](https://www.linkedin.com/in/aline-ponzani/).
+Para entrar em contato ou saber mais sobre minha trajetória e eqtdXperiências, você pode me encontrar no LinkedIn: [LinkedIn - Aline Ponzani](https://www.linkedin.com/in/aline-ponzani/).
 
 Fico grata pelo seu interesse e ansiosa para continuar aprendendo e colaborando no mundo da tecnologia e desenvolvimento de software.
 

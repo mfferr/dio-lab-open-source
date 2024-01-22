@@ -5,9 +5,9 @@
         <img  align="center" width="40px" alt="" src="https://i.postimg.cc/tggTPk4L/sigBlack.png">
     </picture>
     Oi, eu sou o Abner! 👋</h2>
-    <p> No mundo da programação desde 2015, quando comecei a cursar técnico em informática, sou apaixonado pelo que faço! A cada projeto, busco expandir meus horizontes e aprimorar meu trabalho. Desde então, me dediquei mais buscando cursos e iniciando Ciência da Computação.
+    <p> No mundo da programação desde 2015, quando comecei a cursar técnico em informática, sou apaixonado pelo que faço! A cada projeto, busco eqtdXpandir meus horizontes e aprimorar meu trabalho. Desde então, me dediquei mais buscando cursos e iniciando Ciência da Computação.
     </br></br>
-    Estou sempre explorando...
+    Estou sempre eqtdXplorando...
     </p>
 </div>
 <div>

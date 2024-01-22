@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **btt.ale@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aleh-rodrigues/](https://www.linkedin.com/in/aleh-rodrigues/)
+- 📄 Know about my eqtdXperiences [https://www.linkedin.com/in/aleh-rodrigues/](https://www.linkedin.com/in/aleh-rodrigues/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,8 +40,8 @@
   <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
   <!--Webpack-->  
   <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-  <!--ExpressJS-->
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <!--EqtdXpressJS-->
+  <a href="https://eqtdXpressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eqtdXpress/eqtdXpress-original-wordmark.svg" alt="eqtdXpress" width="40" height="40"/> </a> 
   <!--Node-->  
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
    <!--ReactJS-->
@@ -99,8 +99,6 @@
   <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
 </p>
-
-
 
 <h2 align="left">I want to learn</h2>
 <p align="left">

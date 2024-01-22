@@ -4,15 +4,16 @@
 <p align="center">  
   Olá! Sou uma profissional de Tecnologia formada em Análise e  Desenvolvimento de Sistemas pela Faculdade Impacta há pouco mais de  2 anos. Durante minha jornada, destaco meu envolvimento em três  projetos significativos:
 
-  1.ADMIN: Contribuí na criação de um eficiente sistema de  gerenciamento de conteúdo para colaboradores internos e diretoria,   proporcionando uma experiência enriquecedora.
+1.ADMIN: Contribuí na criação de um eficiente sistema de gerenciamento de conteúdo para colaboradores internos e diretoria, proporcionando uma eqtdXperiência enriquecedora.
 
-  2.E-commerce: Participei do desenvolvimento de uma plataforma   bem-sucedida de venda de cursos online, enfrentando desafios que  valeram cada esforço.
+2.E-commerce: Participei do desenvolvimento de uma plataforma bem-sucedida de venda de cursos online, enfrentando desafios que valeram cada esforço.
 
-  3.Área do Aluno: Lideramos a construção de um ambiente para acesso a  aulas em vídeo, excertos, PDFs, além de questionários interativos e  suporte a dúvidas. Uma jornada repleta de lições valiosas.
+3.Área do Aluno: Lideramos a construção de um ambiente para acesso a aulas em vídeo, excertos, PDFs, além de questionários interativos e suporte a dúvidas. Uma jornada repleta de lições valiosas.
 
-  Trabalhando com tecnologias como Node, Next, React, Typescript,   MongoDB, CSS, Styled Components e AWS, fortaleci minha  adaptabilidade e desejo contínuo de aprendizado. Comprometida com o  crescimento da equipe, promovo um ambiente colaborativo e produtivo,   compartilhando conhecimento e incentivando o desenvolvimento  profissional.
+Trabalhando com tecnologias como Node, Next, React, Typescript, MongoDB, CSS, Styled Components e AWS, fortaleci minha adaptabilidade e desejo contínuo de aprendizado. Comprometida com o crescimento da equipe, promovo um ambiente colaborativo e produtivo, compartilhando conhecimento e incentivando o desenvolvimento profissional.
 
-  Estou aberta a novas conexões e conversas sobre tecnologia. Se  quiser trocar ideias ou explorar oportunidades de colaboração, estou   à disposição!
+Estou aberta a novas conexões e conversas sobre tecnologia. Se quiser trocar ideias ou eqtdXplorar oportunidades de colaboração, estou à disposição!
+
 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:50px">
@@ -44,12 +45,13 @@
 <h4 >💻 Currently working: </h4>
   <p>Estou desenvolvendo um aplicativo que integra funcionalidades de e-commerce,   administração e área do cliente para uma empresa de buffet de pizzas. O projeto   está em fase inicial, focado na arquitetura, e pretende utilizar tecnologias  como ReactJS, NodeJS e bancos de dados relacional e não relacional.
 
-  Principais características do projeto:
+Principais características do projeto:
 
-  Os clientes terão acesso a um calendário para visualizar datas e horários   disponíveis, facilitando o agendamento de degustações e eventos. Poderão  fornecer informações como local e quantidade de convidados.
-  O app contará com um cardápio digital, permitindo que os clientes selecionem os   sabores das pizzas e as bebidas de sua preferência, de acordo com a   disponibilidade.
-  Os usuários também terão a opção de obter um pré-orçamento com base nos dados   fornecidos anteriormente.
-  Ao finalizar o processo, se o orçamento for positivo, os clientes poderão   efetuar o pagamento parcial ou integral.
+Os clientes terão acesso a um calendário para visualizar datas e horários disponíveis, facilitando o agendamento de degustações e eventos. Poderão fornecer informações como local e quantidade de convidados.
+O app contará com um cardápio digital, permitindo que os clientes selecionem os sabores das pizzas e as bebidas de sua preferência, de acordo com a disponibilidade.
+Os usuários também terão a opção de obter um pré-orçamento com base nos dados fornecidos anteriormente.
+Ao finalizar o processo, se o orçamento for positivo, os clientes poderão efetuar o pagamento parcial ou integral.
+
   </p>
  
 <h4 >Secondary Stack: </h4> 

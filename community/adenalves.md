@@ -1,7 +1,6 @@
-
 # Aden Alves Barreto
 
-Sou um entusiasta da tecnologia, sempre buscando aprender mais sobre programação e novas tendências no mundo digital. Estou aqui para compartilhar minhas experiências e descobertas!
+Sou um entusiasta da tecnologia, sempre buscando aprender mais sobre programação e novas tendências no mundo digital. Estou aqui para compartilhar minhas eqtdXperiências e descobertas!
 
 ### Conecte-se comigo
 

@@ -12,7 +12,7 @@ Sou Ana Paula Lourenço, uma apaixonada por tecnologia de 35 anos que encontra a
 
 - 📚 Vivo a empolgação de aprimorar minhas habilidades em desenvolvimento de software e tecnologia:
   - Estudando **Backend JavaScript** na Cubos Academy.
-  - Explorando **Fullstack Java** e **Angular** na DIO.
+  - EqtdXplorando **Fullstack Java** e **Angular** na DIO.
 
 ## Paixão pela Tecnologia
 
@@ -48,5 +48,6 @@ Vamos juntos construir um futuro incrível através da tecnologia! ✨👩‍�
 <div style="display: inline_block"><br>
 
 ---
+
 [perfil no GitHub](https://github.com/aaplourenco).
-*Última atualização: [19/08/2023]*
+_Última atualização: [19/08/2023]_

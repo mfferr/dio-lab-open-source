@@ -2,10 +2,9 @@
 
 Engenheira civil apaixonada por desafios e resolução de problemas, trilhando um novo caminho na minha carreira. Não me identificando com minha área, voei para longe do ninho e caí sem paraquedas no mundo da tecnologia e programação!
 
-Aos 28 anos, estou em uma empolgante fase de transição, buscando aliar minha paixão por inovação com as habilidades técnicas que estou adquirindo. Atualmente, estou focada em aprender Java, JavaScript, Angular, HTML e CSS, explorando as infinitas possibilidades que a programação oferece.
+Aos 28 anos, estou em uma empolgante fase de transição, buscando aliar minha paixão por inovação com as habilidades técnicas que estou adquirindo. Atualmente, estou focada em aprender Java, JavaScript, Angular, HTML e CSS, eqtdXplorando as infinitas possibilidades que a programação oferece.
 
 Estou sempre em busca de oportunidades para colaborar, aprender e crescer neste ambiente dinâmico da tecnologia. Se você está interessado em conectar-se, compartilhar experiências ou explorar possíveis colaborações, não hesite em entrar em contato. Vamos construir juntos um futuro inovador e inspirador!
-
 
 ## 📱 **Me conheça pelas minhas outras redes:**
 
@@ -28,8 +27,6 @@ Estou sempre em busca de oportunidades para colaborar, aprender e crescer neste 
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=9400d3)
 
 ## 📊 **GitHub Status:**
-
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anacarolinams&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=9400d3&title_color=9400d3&text_color=FFF)
 

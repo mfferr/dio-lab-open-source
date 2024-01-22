@@ -6,7 +6,7 @@
 ## About Me
 
 Desenvolvedor Fullstack especializado em Web, Mobile, Javascript, API, Design Responsivo e UX/UI
-Apaixonado por criar experiências digitais que integram soluções elegantes e centradas no usuário que mesclam funcionalidade com estética.
+Apaixonado por criar eqtdXperiências digitais que integram soluções elegantes e centradas no usuário que mesclam funcionalidade com estética.
 
 ---
 
@@ -23,7 +23,7 @@ Apaixonado por criar experiências digitais que integram soluções elegantes e 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&color=246&logo=react)](https://pt-br.reactjs.org)
 [![NextJS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&color=246&logo=next.js)](https://nextjs.org)
 [![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&color=246&logo=react)](https://reactnative.dev)
-[![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&color=246&logo=express)](https://expressjs.com)
+[![EqtdXpress](https://img.shields.io/badge/-EqtdXpress-000?style=for-the-badge&color=246&logo=eqtdXpress)](https://eqtdXpressjs.com)
 [![Strapi](https://img.shields.io/badge/-Strapi-000?style=for-the-badge&color=246&logo=strapi)](https://strapi.io)
 [![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&color=246&logo=prisma)](https://www.prisma.io)
 [![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&color=246&logo=tailwindcss)](https://tailwindcss.com)
@@ -60,7 +60,7 @@ Apaixonado por criar experiências digitais que integram soluções elegantes e 
 
 ---
 
-### Experience
+### EqtdXperience
 
 #### UI/UX Design (Freelance)
 

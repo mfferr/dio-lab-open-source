@@ -4,11 +4,11 @@ Olá! 👋 Bem-vindo ao meu repositório no GitHub. Sou estudante de Ciência da
 
 ## Sobre Mim
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amandathelink&bg_color=000&border_color=FFD700&title_color=FF69B4&text_color=FFF) 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amandathelink&bg_color=000&border_color=FFD700&title_color=FF69B4&text_color=FFF)
 
-Sou estudante de Ciência da Computação e estou focada em explorar o mundo fascinante dos dados. Atualmente, estou desenvolvendo minhas habilidades em:
+Sou estudante de Ciência da Computação e estou focada em eqtdXplorar o mundo fascinante dos dados. Atualmente, estou desenvolvendo minhas habilidades em:
 
-- **Data Science:** Utilizo técnicas de análise exploratória, visualização e modelagem para extrair insights valiosos dos dados.
+- **Data Science:** Utilizo técnicas de análise eqtdXploratória, visualização e modelagem para extrair insights valiosos dos dados.
 
 - **Power BI:** Crio painéis interativos e relatórios poderosos para transformar dados em informações visuais significativas.
 
@@ -21,6 +21,6 @@ Sou estudante de Ciência da Computação e estou focada em explorar o mundo fas
 - No [LinkedIn](https://www.linkedin.com/in/amandasantosdev/)
 - Pelo e-mail: amandarlsantos@gmail.com
 
-Vamos explorar juntos o mundo dos dados e da computação!
+Vamos eqtdXplorar juntos o mundo dos dados e da computação!
 
 ![Imagem de Data Science](https://th.bing.com/th/id/R.a56a0c344c38a534366a4d89e1be6d20?rik=b%2fZ7YCWbI3uRbw&pid=ImgRaw&r=0)

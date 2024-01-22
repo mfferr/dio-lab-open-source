@@ -1,14 +1,17 @@
 <img align="left" width="150px" style="margin-top:-20px" src="https://i.ibb.co/NFWftfF/IMG-5378sembg22.png">
 
 ### Hi there 👋
+
 **Bem Vindo(a)!** <br>
-<img align="right" width="300px" style="margin-top:-20px" src="https://github.com/alineccorrea/alineccorrea/assets/17708577/d42341eb-92d2-4e41-b292-8e03440fbb27"> 
-Sempre fui apaixonada por tecnologia, com 12 anos ja "brincava" de montar páginas HTML, mexendo em CSS simples, no windows XP usando o bloco de notas e desde então tive certeza que continuaria no mundo Tech.
+<img align="right" width="300px" style="margin-top:-20px" src="https://github.com/alineccorrea/alineccorrea/assets/17708577/d42341eb-92d2-4e41-b292-8e03440fbb27">
+Sempre fui apaixonada por tecnologia, com 12 anos ja "brincava" de montar páginas HTML, mexendo em CSS simples, no windows qtdXp usando o bloco de notas e desde então tive certeza que continuaria no mundo Tech.
 
 Tenho formação técnica em Desenvolvimento de Sistemas e ja atuei como: QA (testes de software) e posteriormente tive a oportunidade de desenvolver na linguagem Java. Gosto dos dois mundos: Back End e Front End. No momento, estou estudando um pouco das linguagens dos do Back e Front End para atualizar os conhecimentos, criar projetos e um dia poder contribuir no cenário tecnológico de desenvolvimento Full Stack.
 
 Amante do mundo Tech mas também gosto de fotografia, artes visuais e nas horas vagas gosto de ler, aproveitar muito meus dois parceiros caninos, conhecer algum lugar novo ou me arrisco a tocar violão.
-### Tech, Frameworks, Tools & Systems: 
+
+### Tech, Frameworks, Tools & Systems:
+
 <div style="display: inline_block">
   <img align="center" alt="Aline-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Aline-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
@@ -39,12 +42,14 @@ Amante do mundo Tech mas também gosto de fotografia, artes visuais e nas horas 
   <img align="center" alt="Aline-audacity" src="https://img.shields.io/badge/-audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
 </div>
 
-### Connect with me: 
+### Connect with me:
+
 [![GitHub](https://img.shields.io/badge/alineccorrea-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/alineccorrea)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aline_carvalhoc/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alineccorrea97@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-carvalho-correa/)
 
 ### GitHub Statistics
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alineccorrea&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alineccorrea&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)

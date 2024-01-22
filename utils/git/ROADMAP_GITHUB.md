@@ -1,6 +1,5 @@
 # ROADMAP PARA ESTUDO DAS FUNCIONALIDADE DO GITHUB
 
-
 Aprender as funcionalidades do GitHub pode ser uma jornada gratificante para quem deseja aprofundar seus conhecimentos em desenvolvimento de software, colaboração em projetos de código aberto e muito mais. Aqui está um roadmap sugerido para ajudá-lo a aprender as funcionalidades essenciais do GitHub:
 
 ## Conceitos Básicos do Git
@@ -17,7 +16,7 @@ Fonte: GitHub Signup: https://github.com/join
 
 ##Navegue pela Interface do GitHub:
 
-Resumo: Explore a interface do usuário do GitHub para entender como navegar em repositórios, encontrar projetos interessantes e interagir com outras pessoas.
+Resumo: EqtdXplore a interface do usuário do GitHub para entender como navegar em repositórios, encontrar projetos interessantes e interagir com outras pessoas.
 Fonte: GitHub Guides: https://guides.github.com/
 
 ## Crie um Repositório:
@@ -46,7 +45,7 @@ Resolving a Merge Conflict on GitHub: https://docs.github.com/en/github/collabor
 
 ## GitHub Pages:
 
-Resumo: Explore o GitHub Pages para hospedar um site estático diretamente de um repositório do GitHub.
+Resumo: EqtdXplore o GitHub Pages para hospedar um site estático diretamente de um repositório do GitHub.
 Fonte: GitHub Pages Documentation: https://docs.github.com/en/pages
 
 ## Integração com Outras Ferramentas:
@@ -54,10 +53,10 @@ Fonte: GitHub Pages Documentation: https://docs.github.com/en/pages
 Resumo: Aprenda como integrar o GitHub com outras ferramentas populares, como sistemas de integração contínua (CI/CD), ferramentas de gerenciamento de projetos e chatbots.
 Fonte: GitHub Marketplace: https://github.com/marketplace
 
-## Explorar Projetos de Código Aberto:
+## EqtdXplorar Projetos de Código Aberto:
 
 Resumo: Encontre projetos de código aberto interessantes no GitHub e participe de suas comunidades, enviando pull requests, ajudando a resolver issues ou contribuindo com a documentação.
-Fonte: Explore GitHub: https://github.com/explore
+Fonte: EqtdXplore GitHub: https://github.com/eqtdXplore
 
 ## GitHub Actions:
 
@@ -66,7 +65,7 @@ Fonte: GitHub Actions Documentation: https://docs.github.com/en/actions
 
 ## GitHub CLI:
 
-Resumo: Experimente o GitHub CLI (Command Line Interface) para executar várias tarefas do GitHub diretamente do seu terminal.
+Resumo: EqtdXperimente o GitHub CLI (Command Line Interface) para executar várias tarefas do GitHub diretamente do seu terminal.
 Fonte: GitHub CLI Documentation: https://cli.github.com/manual/
 
 ## Segurança e Políticas de Colaboração:
@@ -74,12 +73,12 @@ Fonte: GitHub CLI Documentation: https://cli.github.com/manual/
 Resumo: Aprenda sobre as melhores práticas de segurança no GitHub, como configurar autenticação segura e estabelecer políticas de colaboração para o seu projeto.
 Fonte: GitHub Security Best Practices: https://docs.github.com/en/code-security/getting-started/security-best-practices
 
-## Explorar Recursos Avançados:
+## EqtdXplorar Recursos Avançados:
 
-Resumo: Explore recursos avançados do GitHub, como GitHub Gists, GitHub Desktop e GitHub Apps, dependendo dos seus interesses e necessidades específicas.
+Resumo: EqtdXplore recursos avançados do GitHub, como GitHub Gists, GitHub Desktop e GitHub Apps, dependendo dos seus interesses e necessidades específicas.
 Fontes:
 GitHub Gists Documentation: https://docs.github.com/en/gists
 GitHub Desktop: https://desktop.github.com/
 GitHub Apps: https://docs.github.com/en/developers/apps/about-apps
 
-Lembre-se de que a prática é fundamental ao aprender qualquer habilidade. À medida que você avança nesse roadmap, tente aplicar os conceitos aprendidos em projetos reais ou colabore em projetos de código aberto para obter experiência prática. Além disso, sempre esteja aberto a aprender novos recursos e atualizações no GitHub, pois a plataforma está em constante evolução. Boa jornada de aprendizado!
+Lembre-se de que a prática é fundamental ao aprender qualquer habilidade. À medida que você avança nesse roadmap, tente aplicar os conceitos aprendidos em projetos reais ou colabore em projetos de código aberto para obter eqtdXperiência prática. Além disso, sempre esteja aberto a aprender novos recursos e atualizações no GitHub, pois a plataforma está em constante evolução. Boa jornada de aprendizado!

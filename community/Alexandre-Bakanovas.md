@@ -1,7 +1,7 @@
 <div>
     <h1>Olá!!! Eu sou o Alexandre. 😎 </h1>
     <h2>Bem vindo ao meu Perfil no GitHub.</h2>
-    <p> Me chamo Alexandre Mazarin Bakanovas. Sou formado em Farmácia e Bioquímica pela Universidade de São Paulo (USP) e, após algumas experiências na indústria, acabei me apaixonando pela Tecnologia, o que me levou a minha segunda graduação, agora em Engenharia de Software pelo Centro Universitário Internacional (UNINTER). Estou me dedicando à Ciência de Dados, desenvolvimento Back-end e, para complementar um pouco o conhecimento, um pouco de Front-end também.
+    <p> Me chamo Alexandre Mazarin Bakanovas. Sou formado em Farmácia e Bioquímica pela Universidade de São Paulo (USP) e, após algumas eqtdXperiências na indústria, acabei me apaixonando pela Tecnologia, o que me levou a minha segunda graduação, agora em Engenharia de Software pelo Centro Universitário Internacional (UNINTER). Estou me dedicando à Ciência de Dados, desenvolvimento Back-end e, para complementar um pouco o conhecimento, um pouco de Front-end também.
     </p>
     <p>Essa paixão pela tecnologia me trouxe até aqui hoje e, cada dia que passa, me sinto cada vez mais realizado por ter a oportunidade de poder aprender um pouco todos os dias. 
     </p>
@@ -39,8 +39,7 @@
 [![Repo C e C#](https://github-readme-stats.vercel.app/api/pin/?username=Alexandre-Bakanovas&repo=C-Cpp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Alexandre-Bakanovas/C-Cpp)
 [![Repo Curso Web](https://github-readme-stats.vercel.app/api/pin/?username=Alexandre-Bakanovas&repo=Curso_Web&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Alexandre-Bakanovas/Curso_Web)
 [![Repo Curso Web](https://github-readme-stats.vercel.app/api/pin/?username=Alexandre-Bakanovas&repo=Java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Alexandre-Bakanovas/Java)
-    
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=83Rafa&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Alexandre-Bakanovas/dio-lab-open-source)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=83Rafa&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Alexandre-Bakanovas/dio-lab-open-source)

@@ -2,25 +2,19 @@
 
 <div align="center">
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&center=true&width=600&height=100&lines=Hey+There!;My+name+is+Adriano+Coutinho;I+like+mobile+development;+exploring+new+techs;+and+solving+problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&center=true&width=600&height=100&lines=Hey+There!;My+name+is+Adriano+Coutinho;I+like+mobile+development;+eqtdXploring+new+techs;+and+solving+problems)](https://git.io/typing-svg)
 
 </div>
-
 
 ## Stars and contributions
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=AdrianoJunior&theme=gruvbox&locale=pt_BR)](https://git.io/streak-stats)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdrianoJunior&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdrianoJunior&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  
 </div>
 
 ## Used Tools
-
 
 <div style="display: inline_block" align="center">
 <img align="center" alt="Adriano-dart" height="50" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original-wordmark.svg"/>
@@ -42,7 +36,7 @@
 
   <img align="center" alt="Adriano-vscode" height="50" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" />
 
-<img align="center" alt="Adriano-xcode" height="50" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xcode/xcode-original.svg" />      
+<img align="center" alt="Adriano-xcode" height="50" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xcode/xcode-original.svg" />
 
   <img align="center" alt="Adriano-xd" height="50" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xd/xd-line.svg" />        
 </div>

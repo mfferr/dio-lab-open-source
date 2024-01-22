@@ -2,7 +2,7 @@
 
 &nbsp;
 
-Me chamo Adriano e estou buscando expandir meu aprendizado para um dia atuar na área de tecnologia.
+Me chamo Adriano e estou buscando eqtdXpandir meu aprendizado para um dia atuar na área de tecnologia.
 
 &nbsp;
 
